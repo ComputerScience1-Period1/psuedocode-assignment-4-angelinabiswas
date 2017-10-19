@@ -23,12 +23,12 @@ while (player has > 0 cards) {
         they take the jack and all cards under it
       if they do not slap the jack first:
         the player who did will take the pile
+      the next player will take their turn
         
     If there is no jack played:
       if the player slaps it:
         they must put a card underneath the card played
-     if no one slaps it:
-        the person to their left will take their turn
+      the person to their left will take their turn
     
     If another player places a jack in the middle while it is not player 1's turn:
       the player can try to slap it:
@@ -36,12 +36,13 @@ while (player has > 0 cards) {
           they take the jack and all the cards under it
       if they do not slap the jack first:
           the player who did will take the jack and all the cards under it
+      the next player will take their turn
           
     If another player places a card that is not a jack in the middle:
       they slap the card:
         they must place a card under the pile of cards in the middle
-      they do not slap the card:
-        they next player will take their turn
+        
+      the next player will take their turn
         
   If the player does not have any more cards to play;
     they are out of the game
