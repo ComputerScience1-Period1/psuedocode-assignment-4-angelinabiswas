@@ -14,7 +14,7 @@ When a player has no more cards left, they are out.
 The player who is left at the end is the winner.
 
 TURNS
-The player to the left of the dealer goes first:
+The player to the left of the dealer(you need to understand thi basic concept the computer is the dealer and will deal you cards you do not need to assign roles.)  goes first:
 
 while (player has > 0 cards) {
   The player taking their turn will place a card face up in the middle
@@ -46,3 +46,5 @@ while (player has > 0 cards) {
   If the player does not have any more cards to play;
     they are out of the game
 }
+
+gj this is gud jef
