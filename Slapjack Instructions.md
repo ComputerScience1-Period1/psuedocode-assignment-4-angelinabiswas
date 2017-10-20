@@ -19,6 +19,7 @@ TURNS
 The player to the left of the dealer goes first:
 
 while (player has > 0 cards) {
+
   The player taking their turn will place a card face up in the middle
     If it is a jack they must try to slap it:
       if they are the first to slap the jack:
