@@ -1,6 +1,7 @@
 SLAPJACK
 
 INSTRUCTIONS
+
 Deal cards one at a time face down to each player until all the cards have been dealt. 
 The hands do not have to come out even. 
 Without looking at any of the cards players put their cards in a neat pile in front of them
@@ -14,6 +15,7 @@ When a player has no more cards left, they are out.
 The player who is left at the end is the winner.
 
 TURNS
+
 The player to the left of the dealer goes first:
 
 while (player has > 0 cards) {
