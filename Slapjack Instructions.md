@@ -3,15 +3,24 @@ SLAPJACK
 INSTRUCTIONS
 
 Deal cards one at a time face down to each player until all the cards have been dealt. 
+
 The hands do not have to come out even. 
-Without looking at any of the cards players put their cards in a neat pile in front of them
+Without looking at any of the cards players put their cards in a neat pile in front of them.
+
 The person to the left of the dealer goes first and then it goes clockwise.
+
 Each player lifts one card at a time from their pile and places it face up in the center of the table.
+
 When the card played to the center is a jack, the first player to slap the jack takes the jack and all the cards beneath it.
+
 The player who slapped the jack turns them face down, shuffles them, and adds it to their pile of cards.
+
 When more than one player slaps at a jack, the one whose hand is directly on top of the jack wins the pile.
+
 If a player slaps at any card in the center that is not a jack, they must give put one card under the pile.
+
 When a player has no more cards left, they are out.
+
 The player who is left at the end is the winner.
 
 
