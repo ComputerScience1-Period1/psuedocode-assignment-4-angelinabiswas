@@ -1,6 +1,4 @@
-SLAPJACK
-
-INSTRUCTIONS
+SLAPJACK INSTRUCTIONS
 
 Deal cards one at a time face down to each player until all the cards have been dealt. 
 
