@@ -35,7 +35,7 @@ TURNS
        if they do not slap the jack first:
           the player who did will take the pile
         
-     If there is no jack played:
+     If there is no jack played:  // What happens if all 4 jacks were played but you still have excess cards?
         if the player slaps it:
           they must put a card underneath the card played
        if no one slaps it:
@@ -56,4 +56,4 @@ TURNS
         
     If the player does not have any more cards to play;
       they are out of the game
-}
+} // Looks good!
